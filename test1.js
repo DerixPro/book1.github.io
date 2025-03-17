@@ -175,155 +175,202 @@ const popup48 = document.getElementById("window48");
 
 showbtn1.addEventListener("click", function(){
    popup1.classList.add("activ");
-   $("body").scrollTop(0);
+   document.documentElement.scrollTop = 0;
 })
 showbtn2.addEventListener("click", function(){
    popup2.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn3.addEventListener("click", function(){
    popup3.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn4.addEventListener("click", function(){
    popup4.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn5.addEventListener("click", function(){
    popup5.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn6.addEventListener("click", function(){
    popup6.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 showbtn7.addEventListener("click", function(){
    popup7.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn8.addEventListener("click", function(){
    popup8.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn9.addEventListener("click", function(){
    popup9.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn10.addEventListener("click", function(){
    popup10.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn11.addEventListener("click", function(){
    popup11.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn12.addEventListener("click", function(){
    popup12.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 showbtn13.addEventListener("click", function(){
    popup13.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn14.addEventListener("click", function(){
    popup14.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn15.addEventListener("click", function(){
    popup15.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn16.addEventListener("click", function(){
    popup16.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn17.addEventListener("click", function(){
    popup17.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn18.addEventListener("click", function(){
    popup18.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 showbtn19.addEventListener("click", function(){
    popup19.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn20.addEventListener("click", function(){
    popup20.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn21.addEventListener("click", function(){
    popup21.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn22.addEventListener("click", function(){
    popup22.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn23.addEventListener("click", function(){
    popup23.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn24.addEventListener("click", function(){
    popup24.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 showbtn25.addEventListener("click", function(){
    popup25.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn26.addEventListener("click", function(){
    popup26.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn27.addEventListener("click", function(){
    popup27.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn28.addEventListener("click", function(){
    popup28.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn29.addEventListener("click", function(){
    popup29.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn30.addEventListener("click", function(){
    popup30.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 showbtn31.addEventListener("click", function(){
    popup31.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn32.addEventListener("click", function(){
    popup32.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn33.addEventListener("click", function(){
    popup33.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn34.addEventListener("click", function(){
    popup34.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn35.addEventListener("click", function(){
    popup35.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn36.addEventListener("click", function(){
    popup36.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 showbtn37.addEventListener("click", function(){
    popup37.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn38.addEventListener("click", function(){
    popup38.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn39.addEventListener("click", function(){
    popup39.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn40.addEventListener("click", function(){
    popup40.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn41.addEventListener("click", function(){
    popup41.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn42.addEventListener("click", function(){
    popup42.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 showbtn43.addEventListener("click", function(){
    popup43.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn44.addEventListener("click", function(){
    popup44.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn45.addEventListener("click", function(){
    popup45.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn46.addEventListener("click", function(){
    popup46.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn47.addEventListener("click", function(){
    popup47.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 showbtn48.addEventListener("click", function(){
    popup48.classList.add("activ");
+   document.documentElement.scrollTop = 0;
 })
 
 
