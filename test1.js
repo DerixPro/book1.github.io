@@ -175,6 +175,7 @@ const popup48 = document.getElementById("window48");
 
 showbtn1.addEventListener("click", function(){
    popup1.classList.add("activ");
+   $("body").scrollTop(0);
 })
 showbtn2.addEventListener("click", function(){
    popup2.classList.add("activ");
